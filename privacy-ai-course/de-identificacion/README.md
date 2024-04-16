@@ -6,5 +6,5 @@ La de-identificación (o anonimización) es el proceso de eliminar o modificar i
 
 Esto se logra eliminando nombres, direcciones u otros datos sensibles que puedan identificar a individuos específicos. 
 
-![](/res/de-identification.png){width='300px'}
+![Ejemplo De-identificacion](https://github.com/LIDR-academy/AI4Devs-privacy/blob/main/privacy-ai-course/de-identificacion/res/01_deidentification.jpg?raw=true)
 

@@ -1,5 +1,7 @@
 # AI Privacy course
 
+## Instrucciones
+
 Una vez tienes un contexto general de algunas de las técnicas más relevantes para salvaguardar la privacidad y seguridad de la información en la creación y uso de LLMs, es tu turno de profundizar.
 
 **Investiga sobre cualquiera de las técnicas presentadas en el apartado anterior**: data privacy vaults, de-identificación, generación de datos sintéticos, LLMs locales, o incluso otras que puedan ser relevantes. Puedes profundizar en los casos de uso en el contexto de LLMs, traer ejemplos textuales y visuales que te ayuden a entender el concepto, citar empresas y herramientas de referencia y/o curar contenido relevante.
@@ -15,4 +17,10 @@ Te dejamos una semilla para que puedas comenzar, introduciendo tu contenido en l
 Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nombre. De nuevo este fichero será colaborativo.
 
 Éxitos en tu investigación!
+
+## Indice
+
+[De-identificación](de-identificacion/README.md)
+
+
 
