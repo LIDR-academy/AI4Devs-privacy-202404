@@ -20,7 +20,5 @@ Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nomb
 
 ## Indice
 
-[De-identificación](de-identificacion/README.md)
-
-
-
+1. [De-identificación](de-identificacion/README.md)
+2. [Aprendizaje federado](aprendizaje-federado/README.md)
