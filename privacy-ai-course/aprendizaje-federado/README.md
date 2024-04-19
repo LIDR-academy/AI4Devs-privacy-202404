@@ -16,7 +16,7 @@ Al finalizar este curso, los estudiantes serán capaces de:
 - Familiaridad con conceptos de programación y algoritmos.
 
 ## Contenido del curso
-### [Módulo 1: Introducción al Aprendizaje Federado](#módulo-1-introducción-al-aprendizaje-federado)
+### [Módulo 1: Introducción al Aprendizaje Federado](#1-introducción-al-aprendizaje-federado)
 - ¿Qué es el Aprendizaje Federado?
 - Tipos de Aprendizaje Federado
 - Motivación y beneficios del Aprendizaje Federado
@@ -63,7 +63,7 @@ D -- Actualización local del modelo --> A
 
 Este curso proporciona una base sólida para comprender el Aprendizaje Federado y sus aplicaciones. A medida que avances en el curso, adquirirás los conocimientos necesarios para participar en proyectos de Aprendizaje Federado y explorar áreas más avanzadas de esta emocionante tecnología.
 
-# Módulo 1: Introducción al Aprendizaje Federado
+# 1. Introducción al Aprendizaje Federado
 ## ¿Qué es el Aprendizaje Federado?
 
 El Aprendizaje Federado (Federated Learning) es un enfoque de aprendizaje automático distribuido que permite entrenar modelos en múltiples fuentes de datos descentralizadas, sin necesidad de compartir o centralizar los datos. Esto se logra mediante la colaboración de varios dispositivos o servidores (clientes) que realizan el entrenamiento localmente en sus propios datos y comparten únicamente las actualizaciones del modelo con un servidor central.
