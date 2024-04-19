@@ -21,6 +21,7 @@ Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nomb
 ## Indice
 
 [De-identificación](de-identificacion/README.md)
+[Contenido sintético](contenido-sintetico/README.md)
 
 
 
