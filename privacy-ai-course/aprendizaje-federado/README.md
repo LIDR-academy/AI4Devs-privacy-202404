@@ -18,8 +18,10 @@ Al finalizar este curso, los estudiantes serán capaces de:
 ## Contenido del curso
 ### [Módulo 1: Introducción al Aprendizaje Federado](#módulo-1-introducción-al-aprendizaje-federado)
 - ¿Qué es el Aprendizaje Federado?
+- Tipos de Aprendizaje Federado
 - Motivación y beneficios del Aprendizaje Federado
 - Diferencias entre el Aprendizaje Federado y el aprendizaje automático tradicional
+- Casos de uso del Aprendizaje Federado
 
 ### Módulo 2: Arquitectura del Aprendizaje Federado
 - Componentes principales del Aprendizaje Federado
@@ -57,6 +59,7 @@ D -- Actualización local del modelo --> A
 
 ## Recursos adicionales
 - [Federated Learning: Inteligencia Artificial sin comprometer la privacidad](https://www.aepd.es/prensa-y-comunicacion/blog/federated-learning-inteligencia-artificial-sin-comprometer-la-privacidad#:~:text=El%20Aprendizaje%20Federado%20habilita%20la,donde%20est%C3%A1n%20ubicados%20los%20datos.)
+- [8 aplicaciones novedosas del aprendizaje federado en el mundo.](https://opensistemas.com/8-aplicaciones-novedosas-del-aprendizaje-federado/)
 
 Este curso proporciona una base sólida para comprender el Aprendizaje Federado y sus aplicaciones. A medida que avances en el curso, adquirirás los conocimientos necesarios para participar en proyectos de Aprendizaje Federado y explorar áreas más avanzadas de esta emocionante tecnología.
 
@@ -131,6 +134,37 @@ El Aprendizaje Federado surge como una solución a los desafíos de privacidad y
 | Privacidad y seguridad mejoradas           | Mayor riesgo de violación de privacidad           |
 | Colaboración sin compartir datos           | Requiere compartir datos                          |
 | Escalabilidad en dispositivos distribuidos | Escalabilidad limitada por recursos centralizados |
+
+## Casos de uso del aprendizaje federado
+1. **Asistentes de voz personalizados**:
+    - Entrenar modelos de reconocimiento de voz adaptados a la forma de hablar de cada usuario sin acceder directamente a sus grabaciones de voz.
+    - Mejorar la precisión y la experiencia del usuario manteniendo la privacidad de los datos de voz.
+
+2. **Detección de fraudes en seguros**:
+    - Colaborar entre diferentes compañías de seguros para entrenar modelos de detección de fraudes sin compartir datos sensibles de los clientes.
+    - Identificar patrones de fraude y prevenir pérdidas financieras mientras se cumple con las regulaciones de privacidad.
+
+3. **Monitoreo de la salud en tiempo real**:
+    - Utilizar datos de dispositivos portátiles y sensores médicos para entrenar modelos de detección de anomalías y predicción de enfermedades.
+    - Permitir el análisis de datos de salud sin exponer la información médica personal de los pacientes.
+
+4. **Mantenimiento predictivo en la industria manufacturera**:
+    - Colaborar entre diferentes fábricas para entrenar modelos de mantenimiento predictivo utilizando datos de sensores y máquinas.
+    - Mejorar la eficiencia y reducir los tiempos de inactividad sin comprometer la confidencialidad de los datos de producción.
+
+5. **Personalización de la publicidad en línea**:
+    - Entrenar modelos de segmentación de audiencia y recomendación de anuncios utilizando datos de navegación y preferencias de los usuarios.
+    - Ofrecer publicidad relevante y personalizada sin acceder directamente a los datos privados de los usuarios.
+
+6. **Detección de intrusiones en redes distribuidas**:
+    - Colaborar entre diferentes organizaciones para entrenar modelos de detección de intrusiones utilizando datos de tráfico de red.
+    - Identificar y prevenir ataques cibernéticos sin exponer la información confidencial de cada organización.
+
+7. **Predicción de la demanda en la cadena de suministro**:
+    - Entrenar modelos de pronóstico de demanda utilizando datos de ventas y inventario de diferentes minoristas y proveedores.
+    - Optimizar la gestión de la cadena de suministro sin compartir datos comerciales sensibles entre las partes involucradas.
+
+Estos son solo algunos ejemplos de cómo el aprendizaje federado puede aplicarse en diferentes dominios. La capacidad de entrenar modelos de aprendizaje automático en datos distribuidos sin comprometer la privacidad abre un amplio abanico de posibilidades en diversos sectores, desde la atención médica hasta la industria manufacturera, pasando por la publicidad en línea y la seguridad cibernética.
 
 # AIs utilizadas
 - Claude AI hasta el módulo 1.

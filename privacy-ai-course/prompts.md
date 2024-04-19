@@ -74,3 +74,22 @@ Podrías incluir en los módulos algo sobre el aprendizaje federado horizontal y
 
 ## Prompt 7
 Podrías generar un diagrama mermaid para el aprendizaje federado horizontal?
+
+## Prompt 8 - Texto obtenido de https://opensistemas.com/8-aplicaciones-novedosas-del-aprendizaje-federado/
+A partir del siguiente texto:
+
+El aprendizaje federado tiene el potencial de revolucionar la forma en que se utilizan los datos y el aprendizaje automático en la vida cotidiana. Al permitir que los modelos de aprendizaje automático se entrenen en datos distribuidos sin sacrificar la privacidad, el aprendizaje federado abre nuevas posibilidades para el aprendizaje automático en aplicaciones que requieren datos distribuidos.
+
+Aquí te expongo algunos ejemplos de aplicaciones de aprendizaje federado en la vida cotidiana:
+
+Clasificación de imágenes en teléfonos inteligentes: Imagina que tus fotos están a salvo mientras tu télefono se vuelve más inteligente
+
+El juego aquí es la clasificación de imágenes en teléfonos inteligentes usando el aprendizaje federado. Básicamente, entrenamos modelos directamente en tu dispositivo, sin ver tus fotos privadas ¿El resultado? Un aumento en la precisión de la detección de rostros, identificación de objetos y clasificación de imágenes. Todo esto mientras tu privacidad se mantiene a salvo y tu teléfono se vuelve aún más inteligente.
+
+Predicción de riesgos financieros: Es como tu asesor financiero de confianza pero sin compartir tus secretos bancarios. Con esto las empresas financieras pueden entrenar modelos de predicción de riesgos sin tocar la información financiera privada de los clientes. ¿El resultado? Ofrecer productos y servicios financieros más a la medida y seguros.
+
+Recomendación de productos: El aprendizaje federado se convierte en ese consejero de confianza para entrenar modelos de recomendación de productos. Lo más importante es que logra esto sin soltar un solo dato sobre tus hábitos de compra privados.
+
+Si seguimos explorando encontraremos una gran cantidad de panoramas prometedores en diversos dominios. Por ejemplo al hablar del sector automotriz se vuelve importante el entrenamiento de modelos de conducción sin comprometer la confidencialidad de los datos. En el ámbito de la salud, la implementación de modelos de diagnóstico médico, prometen la obtención de diagnósticos más precisos y oportunos sin comprometer la privacidad del paciente. Asimismo, en materia de seguridad, la utilización del aprendizaje federado para detección de amenazas, basados en datos de sensores y cámaras distribuidas, emerge como un avance significativo para la protección de individuos y bienes.
+
+Podrías darme casos de uso del aprendizaje federado?
