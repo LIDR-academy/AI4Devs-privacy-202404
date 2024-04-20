@@ -8,7 +8,7 @@ Una vez tienes un contexto general de algunas de las técnicas más relevantes p
 
 Utiliza el asistente que prefieras para aprender sobre esta temática: ChatGPT, Microsoft Copilot, Gemini, Claude...
 
-Eso sí, tendrás que **documentar lo aprendido en español en un formato tipo curso**, en el repositorio Github de este tema. 
+Eso sí, tendrás que **documentar lo aprendido en español en un formato tipo curso**, en el repositorio Github de este tema.
 
 En este caso el repositorio será colaborativo, iremos aceptando las pull requests para generar una base común. Una vez decidas la temática, comienza por revisar la última versión del repositorio y constrye a partir de lo que tus compañer@s ya hayan dejado. Si no sabes como mantenerte actualizado antes de publicar tu contenido y encontrarte con conflictos, pregunta en el grupo de Whatsapp o revisa documentación sobre git.
 
@@ -20,8 +20,6 @@ Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nomb
 
 ## Indice
 
-[De-identificación](de-identificacion/README.md)
-[Contenido sintético](contenido-sintetico/README.md)
-
-
-
+* [De-identificación](de-identificacion/README.md)
+* [Enclaves Seguros](enclaves-seguros/README.md)
+* [Contenido sintético](contenido-sintetico/README.md)
