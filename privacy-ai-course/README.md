@@ -24,4 +24,5 @@ Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nomb
 * [Enclaves Seguros](enclaves-seguros/README.md)
 * [Contenido sintético](contenido-sintetico/README.md)
 * [Aprendizaje federado](aprendizaje-federado/README.md)
+* [Computación Multi-partita Segura (CMS)](computacion-multi-partita-segura/README.md)
 
