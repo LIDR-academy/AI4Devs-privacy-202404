@@ -22,3 +22,4 @@ Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nomb
 
 * [De-identificación](de-identificacion/README.md)
 * [Enclaves Seguros](enclaves-seguros/README.md)
+* [Contenido sintético](contenido-sintetico/README.md)
