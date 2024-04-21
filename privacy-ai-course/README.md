@@ -24,4 +24,4 @@ Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nomb
 * [Enclaves Seguros](enclaves-seguros/README.md)
 * [Contenido sintético](contenido-sintetico/README.md)
 * [Aprendizaje federado](aprendizaje-federado/README.md)
-
+* [LLMs de manera privada en tu propia infraestructura](llms-infraestructura-privada/README.md)
