@@ -123,3 +123,29 @@ Recomendación de productos: El aprendizaje federado se convierte en ese conseje
 Si seguimos explorando encontraremos una gran cantidad de panoramas prometedores en diversos dominios. Por ejemplo al hablar del sector automotriz se vuelve importante el entrenamiento de modelos de conducción sin comprometer la confidencialidad de los datos. En el ámbito de la salud, la implementación de modelos de diagnóstico médico, prometen la obtención de diagnósticos más precisos y oportunos sin comprometer la privacidad del paciente. Asimismo, en materia de seguridad, la utilización del aprendizaje federado para detección de amenazas, basados en datos de sensores y cámaras distribuidas, emerge como un avance significativo para la protección de individuos y bienes.
 
 Podrías darme casos de uso del aprendizaje federado?
+
+
+# Laura Galán - LLMs en infraestructura privada
+
+## Prompt inicial
+
+```
+Como un experto en Inteligencia artificial y conociendo con detalle las mejores prácticas de ciberseguridad, quiero que me hagas una investigación sobre cómo ejecutando los LLMs de manera privada en la propia infraestructura privada de la empresa se puede implantar la inteligencia artificial en la propia organización para mejorar la productividad de los empleados y garantizando la privacidad de usuarios y empleados, y la protección de la propiedad intelectual. Para ello:
+
+- Describe qué son los modelos LLM open source y muestra algunos ejemplos.
+- Explica cómo han mejorado sus prestaciones y rendimiento comparándolo con los modelos comerciales.
+- Explica qué ventajas tiene, a nivel de seguridad y proteccion de la propiedad intelectual, el ejecutar los LLMs de manera privida.
+- Explica qué infraestructura sería necesaria y muestra algún diagrama con una posible solución de implantacion en la organización.
+- Indica algunas de las mejores herramientas que se podría usar para conseguirlo.
+- Incluye los recursos de información que has usado y sus enlaces.
+
+Quiero que me muestres toda esta información en formato markdown.
+```
+
+## Asistente
+
+Chat GPT 3.5
+
+## Conversación completa
+
+https://chat.openai.com/share/739b8d66-c20b-4cb0-a824-a44c3313ee94
