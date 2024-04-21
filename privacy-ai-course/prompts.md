@@ -123,3 +123,18 @@ Recomendación de productos: El aprendizaje federado se convierte en ese conseje
 Si seguimos explorando encontraremos una gran cantidad de panoramas prometedores en diversos dominios. Por ejemplo al hablar del sector automotriz se vuelve importante el entrenamiento de modelos de conducción sin comprometer la confidencialidad de los datos. En el ámbito de la salud, la implementación de modelos de diagnóstico médico, prometen la obtención de diagnósticos más precisos y oportunos sin comprometer la privacidad del paciente. Asimismo, en materia de seguridad, la utilización del aprendizaje federado para detección de amenazas, basados en datos de sensores y cámaras distribuidas, emerge como un avance significativo para la protección de individuos y bienes.
 
 Podrías darme casos de uso del aprendizaje federado?
+
+
+# Luis Chacón - LLMs locales
+
+## Prompt inicial
+Siendo un experto en seguridad realiza una tabla de contenidos importantes para la seguridad y privacidad en modelos LLM
+
+## Link del chat de la conversación
+- [click aquí chat 1](https://chat.openai.com/share/c3830dee-2735-47b0-869f-ac9cbc299552)
+- [click aquí chat 2](https://chat.openai.com/share/f60c3fe3-769c-43a0-a5ea-d4cf0da30c53)
+
+Fueron 2 chats y luego los uni según vi conveniente, más que todo use información del primero.
+
+## LLM utilizado
+ChatGPT 4
