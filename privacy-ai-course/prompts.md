@@ -149,3 +149,80 @@ Chat GPT 3.5
 ## Conversación completa
 
 https://chat.openai.com/share/739b8d66-c20b-4cb0-a824-a44c3313ee94
+
+
+# Luis Chacón - LLMs locales
+
+## Prompt inicial
+Siendo un experto en seguridad realiza una tabla de contenidos importantes para la seguridad y privacidad en modelos LLM
+
+## Link del chat de la conversación
+- [click aquí chat 1](https://chat.openai.com/share/c3830dee-2735-47b0-869f-ac9cbc299552)
+- [click aquí chat 2](https://chat.openai.com/share/f60c3fe3-769c-43a0-a5ea-d4cf0da30c53)
+
+Fueron 2 chats y luego los uni según vi conveniente, más que todo use información del primero.
+
+## LLM utilizado
+ChatGPT 4
+
+
+# Julián Salgado - Otras técnicas
+
+## Prompt inicial
+Puedes mencionarme otras técnicas relevantes para salvaguardar la privacidad y seguridad de la información en la creación y uso de LLMs diferentes a las de, data privacy vaults, de-identificación, generación de datos sintéticos o LLMs locales. puedes traer ejemplos textuales y visuales que me ayuden a entender el concepto, además de citar empresas y herramientas de referencia.
+
+## LLM utilizado
+Microsoft Copilot
+
+
+# José D'Andrade - Contenido Sintético
+
+## Prompt inicial en Microsoft Copilot
+
+Investiga sobre generación de datos sintéticos. Quiero conocer proveedores de servicio. Incluye también proyectos open source. Considera buscar opensource de jupyter notebook en python.
+
+## Resultado en Microsoft Copilot
+
+Claro, aquí tienes la información que he encontrado:
+
+**Proveedores de servicios de generación de datos sintéticos**:
+1. **STAND8**: Ofrece servicios de generación de datos sintéticos para fines de pruebas y capacitación¹.
+2. **Syntho**: Ofrece una plataforma para generar datos sintéticos utilizando inteligencia artificial⁴.
+
+**Proyectos de código abierto para la generación de datos sintéticos**:
+1. **Data Generator OpenAI**: Es una aplicación Python que utiliza modelos de OpenAI para generar datos sintéticos de alta calidad con correlación entre los mismos⁵.
+2. **Synthetic_Data**: Este repositorio contiene el código y los resultados de la parte de demostración de un Trabajo de Fin de Máster "Métodos para la generación y evaluación de datos sintéticos". El repositorio está formado por cuatro proyectos individuales para cuatro conjuntos de datos distintos⁶.
+
+En cuanto a los **notebooks de Jupyter en Python para la generación de datos sintéticos**, puedes encontrar varios ejemplos y tutoriales en GitHub[^10^]. También puedes probar Jupyter directamente en tu navegador⁹. Jupyter soporta más de 40 lenguajes de programación, incluyendo Python⁸.
+
+Espero que esta información te sea útil. Si tienes alguna otra pregunta, no dudes en hacerla.
+
+Source: Conversation with Bing, 4/21/2024
+(1) Synthetic Data Generation Services | STAND8. https://service.stand8.io/es/solutions/synthetic-data-generation.
+
+(2) sintetizador | Plataforma de datos sintéticos de autoservicio generada .... https://syntho.ai/es/.
+
+(3) Generación de Datos Sintéticos con OpenAI: Un Estudio Comparativo. https://alexdepablos.com/ingenieria-de-software/generacion-de-datos-sinteticos/.
+
+(4) Métodos para la generación y evaluación de datos sintéticos. https://github.com/destyo/Synthetic_Data.
+
+(5) GitHub - mleyvaz/Data-science-python: Coleccion de notebook en jupyter .... https://github.com/mleyvaz/Data-science-python.
+
+(6) Project Jupyter | Try Jupyter. https://jupyter.org/try.
+
+(7) Project Jupyter | Home. https://jupyter.org/.
+
+(8) Generación de datos sintéticos: Técnicas y consideraciones - QuestionPro. https://www.questionpro.com/blog/es/generacion-de-datos-sinteticos/.
+
+(9) Guía para la generación de datos sintéticos | Sinto. https://www.syntho.ai/es/guide-to-synthetic-data-generation-definition-types-applications/.
+
+(10) Métodos para la generación y evaluación de datos sintéticos. https://bing.com/search?q=proyectos+open+source+de+generaci%c3%b3n+de+datos+sint%c3%a9ticos.
+
+
+# Carlos Lizcano - Bóvedas de Privacidad de Datos
+
+## Prompt inicial
+En el ámbito de la privacidad y seguridad de la información en al creación y uso de LLMs, necesito conocer acerca de la técnica "data privacy vaults". ¿qué es? ¿cómo funciona? Ejemplos, herramientas, características, beneficios, desventajas, riesgos, en fin, necesito documentación para comprender y aplicar la técnica del "data privacy vaults".
+
+## LLM utilizado
+Claude 3 Sonnet
