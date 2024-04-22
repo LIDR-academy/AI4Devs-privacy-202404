@@ -25,4 +25,5 @@ Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nomb
 * [Contenido sintético](contenido-sintetico/README.md)
 * [Aprendizaje federado](aprendizaje-federado/README.md)
 * [Computación Multi-partita Segura (CMS)](computacion-multi-partita-segura/README.md)
-
+* [LLMs de manera privada en tu propia infraestructura](llms-infraestructura-privada/README.md)
+* [LLMs locales](LLMs%20locales/README.md)
