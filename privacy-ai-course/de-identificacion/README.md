@@ -128,31 +128,18 @@ Este caso resaltó la importancia de no solo eliminar nombres y direcciones de c
 
 Este incidente llevó a una mayor conciencia sobre la necesidad de estándares más estrictos para la anonimización de datos y subrayó los riesgos inherentes asociados con la publicación de datos incluso después de la anonimización aparente.
 
-> Fuentes
-
-- [BBC News - AOL apologises for releasing search data](https://www.bbc.com/news/technology-19467669)
-- [The New York Times - AOL Removes Search Data on Group of Web Users](https://www.nytimes.com/2006/08/07/technology/07aol.html)
-- [CNN - AOL sorry for posting user search data](https://edition.cnn.com/2006/TECH/internet/08/07/aol.privacy.reut/index.html)
-
 #### Caso Cambridge Analytica (2018)
 
 En 2018, se reveló que la consultora política Cambridge Analytica había recopilado ilegalmente datos personales de millones de usuarios de Facebook sin su consentimiento para utilizarlos en actividades de perfilado de usuarios y microsegmentación con fines políticos. Aunque los datos recopilados inicialmente podrían considerarse anónimos, el proceso de combinación de datos de diferentes fuentes permitió la reidentificación de individuos específicos. Este caso puso de relieve las preocupaciones éticas sobre el manejo de datos personales, incluida la necesidad de obtener consentimiento informado y garantizar la protección de la privacidad de los usuarios.
 
 > Fuentes
 
-- [The Guardian - Cambridge Analytica and Facebook: The scandal so far](https://www.theguardian.com/technology/2018/mar/19/facebook-cambridge-analytica-scandal-explained)
 - [BBC News - Cambridge Analytica: What we know so far](https://www.bbc.com/news/technology-43465968)
 - [The New York Times - How Trump Consultants Exploited the Facebook Data of Millions](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html)
 
 #### Caso Netflix Prize (2007)
 
 En 2007, Netflix lanzó un concurso llamado "Netflix Prize", que desafió a los participantes a mejorar el algoritmo de recomendación de películas de Netflix utilizando un conjunto de datos de calificaciones de usuarios. Aunque Netflix anonimizó los datos eliminando nombres de usuario y direcciones de correo electrónico, investigadores demostraron que era posible identificar a individuos específicos cruzando los datos de Netflix con otras fuentes de información pública, como bases de datos de reseñas de películas. Este caso resaltó la importancia de considerar no solo los datos directamente identificativos, sino también los datos que podrían ser utilizados en combinación con otros para reidentificar a individuos.
-
-> Fuentes
-
-- [Wired - Netflix dataset gets two-pronged privacy attack](https://www.wired.com/2007/12/netflix-2/)
-- [The New York Times - Netflix Settles Lawsuit Over Its Recommendation System](https://www.nytimes.com/2009/07/01/technology/companies/01netflix.html)
-- [The Register - Netflix swamped with lawsuit over recommendation engine](https://www.theregister.com/2009/03/18/netflix_privacy_lawsuit/)
 
 ### Legislación en España sobre Protección de Datos y Ética
 
