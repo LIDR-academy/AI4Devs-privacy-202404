@@ -576,3 +576,9 @@ En el ámbito de la privacidad y seguridad de la información en al creación y 
 
 ## LLM utilizado
 Claude 3 Sonnet
+
+# María Pizarro - De-identificacion
+
+## Asistente GPT 3.5
+
+Conversación completa: <https://chat.openai.com/share/fb6771de-7826-4c79-ac4c-054449232c8a>
