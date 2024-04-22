@@ -53,5 +53,5 @@ El diagrama ilustra cómo el DPV actúa como una capa de aislamiento y control d
 
 Así, los flujos que requieren datos reales (como enviar un SMS) se canalizan a través de la bóveda, que interactúa de forma segura con los servicios externos necesarios.
 
-##Conclusión
+## Conclusión
 En resumen, los Bóvedas de Privacidad de Datos o Data Privacy Vaults, brindan una capa de aislamiento, protección y control de acceso alrededor de los datos sensibles, permitiendo su uso seguro en flujos de trabajo críticos al tiempo que facilitan el cumplimiento normativo.
