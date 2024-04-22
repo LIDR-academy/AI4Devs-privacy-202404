@@ -140,7 +140,6 @@ Fueron 2 chats y luego los uni según vi conveniente, más que todo use informac
 ChatGPT 4
 
 
-
 # José D'Andrade - Contenido Sintético
 
 ## Prompt inicial en Microsoft Copilot
@@ -183,3 +182,13 @@ Source: Conversation with Bing, 4/21/2024
 (9) Guía para la generación de datos sintéticos | Sinto. https://www.syntho.ai/es/guide-to-synthetic-data-generation-definition-types-applications/.
 
 (10) Métodos para la generación y evaluación de datos sintéticos. https://bing.com/search?q=proyectos+open+source+de+generaci%c3%b3n+de+datos+sint%c3%a9ticos.
+
+
+# Carlos Lizcano - Bóvedas de Privacidad de Datos
+
+## Prompt inicial
+En el ámbito de la privacidad y seguridad de la información en al creación y uso de LLMs, necesito conocer acerca de la técnica "data privacy vaults". ¿qué es? ¿cómo funciona? Ejemplos, herramientas, características, beneficios, desventajas, riesgos, en fin, necesito documentación para comprender y aplicar la técnica del "data privacy vaults".
+
+## LLM utilizado
+Claude 3 Sonnet
+
