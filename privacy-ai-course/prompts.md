@@ -140,6 +140,50 @@ Fueron 2 chats y luego los uni según vi conveniente, más que todo use informac
 ChatGPT 4
 
 
+# José D'Andrade - Contenido Sintético
+
+## Prompt inicial en Microsoft Copilot
+
+Investiga sobre generación de datos sintéticos. Quiero conocer proveedores de servicio. Incluye también proyectos open source. Considera buscar opensource de jupyter notebook en python.
+
+## Resultado en Microsoft Copilot
+
+Claro, aquí tienes la información que he encontrado:
+
+**Proveedores de servicios de generación de datos sintéticos**:
+1. **STAND8**: Ofrece servicios de generación de datos sintéticos para fines de pruebas y capacitación¹.
+2. **Syntho**: Ofrece una plataforma para generar datos sintéticos utilizando inteligencia artificial⁴.
+
+**Proyectos de código abierto para la generación de datos sintéticos**:
+1. **Data Generator OpenAI**: Es una aplicación Python que utiliza modelos de OpenAI para generar datos sintéticos de alta calidad con correlación entre los mismos⁵.
+2. **Synthetic_Data**: Este repositorio contiene el código y los resultados de la parte de demostración de un Trabajo de Fin de Máster "Métodos para la generación y evaluación de datos sintéticos". El repositorio está formado por cuatro proyectos individuales para cuatro conjuntos de datos distintos⁶.
+
+En cuanto a los **notebooks de Jupyter en Python para la generación de datos sintéticos**, puedes encontrar varios ejemplos y tutoriales en GitHub[^10^]. También puedes probar Jupyter directamente en tu navegador⁹. Jupyter soporta más de 40 lenguajes de programación, incluyendo Python⁸.
+
+Espero que esta información te sea útil. Si tienes alguna otra pregunta, no dudes en hacerla.
+
+Source: Conversation with Bing, 4/21/2024
+(1) Synthetic Data Generation Services | STAND8. https://service.stand8.io/es/solutions/synthetic-data-generation.
+
+(2) sintetizador | Plataforma de datos sintéticos de autoservicio generada .... https://syntho.ai/es/.
+
+(3) Generación de Datos Sintéticos con OpenAI: Un Estudio Comparativo. https://alexdepablos.com/ingenieria-de-software/generacion-de-datos-sinteticos/.
+
+(4) Métodos para la generación y evaluación de datos sintéticos. https://github.com/destyo/Synthetic_Data.
+
+(5) GitHub - mleyvaz/Data-science-python: Coleccion de notebook en jupyter .... https://github.com/mleyvaz/Data-science-python.
+
+(6) Project Jupyter | Try Jupyter. https://jupyter.org/try.
+
+(7) Project Jupyter | Home. https://jupyter.org/.
+
+(8) Generación de datos sintéticos: Técnicas y consideraciones - QuestionPro. https://www.questionpro.com/blog/es/generacion-de-datos-sinteticos/.
+
+(9) Guía para la generación de datos sintéticos | Sinto. https://www.syntho.ai/es/guide-to-synthetic-data-generation-definition-types-applications/.
+
+(10) Métodos para la generación y evaluación de datos sintéticos. https://bing.com/search?q=proyectos+open+source+de+generaci%c3%b3n+de+datos+sint%c3%a9ticos.
+
+
 # Carlos Lizcano - Bóvedas de Privacidad de Datos
 
 ## Prompt inicial
@@ -147,3 +191,4 @@ En el ámbito de la privacidad y seguridad de la información en al creación y 
 
 ## LLM utilizado
 Claude 3 Sonnet
+

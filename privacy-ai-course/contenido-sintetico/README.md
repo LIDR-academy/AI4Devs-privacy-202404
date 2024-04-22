@@ -47,3 +47,9 @@ Las principales ventajas de usar **contenido sintético** en la interacción con
 **Runway AI:** Proporciona una interfaz visual para trabajar con modelos de IA, lo que facilita a los usuarios no técnicos la experimentación y utilización de LLMs para la generación de datos sintéticos​ ([V7 Gen AI & Darwin](https://www.v7labs.com/blog/large-language-models-llms))​.
 
 **Gretel.ai:** es una herramienta potente y flexible para organizaciones y desarrolladores que buscan generar datos sintéticos seguros y de alta calidad, siendo una excelente opción en el ámbito de las herramientas de generación de contenido sintético de pago. Ofrece un modelo freemium, lo que permite a los desarrolladores comenzar sin coste inicial y escalar según necesiten más recursos o funcionalidades avanzadas​ ([OpenFuture](https://openfuture.ai/tool/gretel-ai))​​ ([AI Repo Hub](https://airepohub.com/developer-tools/gretel-ai-ai-tool/))​.
+
+### Otros Proveedores 
+
+1. **STAND8**: Ofrece servicios de generación de datos sintéticos para fines de pruebas y capacitación.
+
+2. **Syntho**: Ofrece una plataforma para generar datos sintéticos utilizando inteligencia artificial.
