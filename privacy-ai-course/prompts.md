@@ -165,12 +165,21 @@ Espero que esta información te sea útil. Si tienes alguna otra pregunta, no du
 
 Source: Conversation with Bing, 4/21/2024
 (1) Synthetic Data Generation Services | STAND8. https://service.stand8.io/es/solutions/synthetic-data-generation.
+
 (2) sintetizador | Plataforma de datos sintéticos de autoservicio generada .... https://syntho.ai/es/.
+
 (3) Generación de Datos Sintéticos con OpenAI: Un Estudio Comparativo. https://alexdepablos.com/ingenieria-de-software/generacion-de-datos-sinteticos/.
+
 (4) Métodos para la generación y evaluación de datos sintéticos. https://github.com/destyo/Synthetic_Data.
+
 (5) GitHub - mleyvaz/Data-science-python: Coleccion de notebook en jupyter .... https://github.com/mleyvaz/Data-science-python.
+
 (6) Project Jupyter | Try Jupyter. https://jupyter.org/try.
+
 (7) Project Jupyter | Home. https://jupyter.org/.
+
 (8) Generación de datos sintéticos: Técnicas y consideraciones - QuestionPro. https://www.questionpro.com/blog/es/generacion-de-datos-sinteticos/.
+
 (9) Guía para la generación de datos sintéticos | Sinto. https://www.syntho.ai/es/guide-to-synthetic-data-generation-definition-types-applications/.
+
 (10) Métodos para la generación y evaluación de datos sintéticos. https://bing.com/search?q=proyectos+open+source+de+generaci%c3%b3n+de+datos+sint%c3%a9ticos.
