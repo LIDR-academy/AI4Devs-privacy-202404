@@ -138,3 +138,12 @@ Fueron 2 chats y luego los uni según vi conveniente, más que todo use informac
 
 ## LLM utilizado
 ChatGPT 4
+
+
+# Carlos Lizcano - Bóvedas de Privacidad de Datos
+
+## Prompt inicial
+En el ámbito de la privacidad y seguridad de la información en al creación y uso de LLMs, necesito conocer acerca de la técnica "data privacy vaults". ¿qué es? ¿cómo funciona? Ejemplos, herramientas, características, beneficios, desventajas, riesgos, en fin, necesito documentación para comprender y aplicar la técnica del "data privacy vaults".
+
+## LLM utilizado
+Claude 3 Sonnet
