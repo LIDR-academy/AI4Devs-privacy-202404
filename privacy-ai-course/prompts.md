@@ -141,7 +141,7 @@ ChatGPT 4
 
 
 
-# JOSE D'ANDRADE - CONTENIDO SINTETICO
+# José D'Andrade - Contenido Sintético
 
 ## Prompt inicial en Microsoft Copilot
 
