@@ -53,3 +53,6 @@ Las principales ventajas de usar **contenido sintético** en la interacción con
 1. **STAND8**: Ofrece servicios de generación de datos sintéticos para fines de pruebas y capacitación.
 
 2. **Syntho**: Ofrece una plataforma para generar datos sintéticos utilizando inteligencia artificial.
+
+## Referencias, bibliografía y documentación
+[Advanced Code Generation With LLMs — Building a Synthetic Data Generator](https://towardsdatascience.com/advanced-code-generation-with-llms-building-a-synthetic-data-generator-0e7ed7b496dc)
