@@ -4,7 +4,6 @@
 
 - [De-identificación](#de-identificación)
 - [Proceso de Anonimización o De-identificación de Datos para Entrenamiento de LLMs](#proceso-de-anonimización-o-de-identificación-de-datos-para-entrenamiento-de-llms)
-
   - [Descripción del Proceso de Anonimización](#descripción-del-proceso-de-anonimización)
   - [Etapas del Proceso de Anonimización](#etapas-del-proceso-de-anonimización)
   - [Herramientas Recomendadas para la Anonimización de Datos](#herramientas-recomendadas-para-la-anonimización-de-datos)
@@ -12,19 +11,20 @@
   - [Fuentes de Información](#fuentes-de-información)
   - [Uso de Datos Anonimizados en un Flujo de Trabajo](#uso-de-datos-anonimizados-en-un-flujo-de-trabajo)
   - [Diagrama de Flujo del Proceso (Formato Mermaid)](#diagrama-de-flujo-del-proceso-formato-mermaid)
-  - [Ética en Anonimización para Entrenamiento de Modelos de Lenguaje](#ética-en-anonimización-para-entrenamiento-de-modelos-de-lenguaje)
-    - [Origen de estos principios](#origen-de-estos-principios)
-    - [Casos de Violaciones de Privacidad y Ética](#casos-de-violaciones-de-privacidad-y-ética)
-      - [Caso AOL (2006)](#caso-aol-2006)
-      - [Caso Cambridge Analytica (2018)](#caso-cambridge-analytica-2018)
-      - [Caso Netflix Prize (2007)](#caso-netflix-prize-2007)
-    - [Legislación en España sobre Protección de Datos y Ética](#legislación-en-españa-sobre-protección-de-datos-y-ética)
-      - [Principios Éticos y Legales](#principios-éticos-y-legales)
-      - [Obligaciones de las Empresas y Organizaciones](#obligaciones-de-las-empresas-y-organizaciones)
-      - [Sanciones por Incumplimiento](#sanciones-por-incumplimiento)
-      - [Impacto en la Ética del Tratamiento de Datos](#impacto-en-la-ética-del-tratamiento-de-datos)
+- [Ética en Anonimización para Entrenamiento de Modelos de Lenguaje](#ética-en-anonimización-para-entrenamiento-de-modelos-de-lenguaje)
+  - [Origen de estos principios](#origen-de-estos-principios)
+  - [Casos de Violaciones de Privacidad y Ética](#casos-de-violaciones-de-privacidad-y-ética)
+    - [Caso AOL (2006)](#caso-aol-2006)
+    - [Caso Cambridge Analytica (2018)](#caso-cambridge-analytica-2018)
+    - [Caso Netflix Prize (2007)](#caso-netflix-prize-2007)
+  - [Legislación en España sobre Protección de Datos y Ética](#legislación-en-españa-sobre-protección-de-datos-y-ética)
+    - [Principios Éticos y Legales](#principios-éticos-y-legales)
+    - [Obligaciones de las Empresas y Organizaciones](#obligaciones-de-las-empresas-y-organizaciones)
+    - [Sanciones por Incumplimiento](#sanciones-por-incumplimiento)
+    - [Impacto en la Ética del Tratamiento de Datos](#impacto-en-la-ética-del-tratamiento-de-datos)
 
-La primera alternativa es utilizar la de-identificación de todo dato personal, confidencial o sensible en las interacciones con LLMs.
+
+# De-identificación
 
 La de-identificación (o anonimización) es el proceso de eliminar o modificar información personal identificable (PII por sus siglas en inglés) de un conjunto de datos para proteger la privacidad de las personas.
 
@@ -86,7 +86,7 @@ Supongamos que tenemos un conjunto de datos con información sobre pacientes que
 Antes: "John Doe, nacido el 23 de abril de 1990 en Nueva York, diagnóstico: Diabetes."
 Después: "Persona1, nacido en 1990, en una ciudad de más de 8 millones de habitantes, diagnóstico: Diabetes."
 
-## Ética en Anonimización para Entrenamiento de Modelos de Lenguaje
+# Ética en Anonimización para Entrenamiento de Modelos de Lenguaje
 
 Las consideraciones éticas en el proceso de anonimización o de-identificación de datos para el entrenamiento de LLMs son fundamentales para garantizar que se respeten los derechos y la dignidad de las personas cuyos datos están siendo utilizados. Aquí hay algunos aspectos éticos importantes a considerar:
 
@@ -104,7 +104,7 @@ Las consideraciones éticas en el proceso de anonimización o de-identificación
 
 En resumen, las consideraciones éticas en el proceso de anonimización de datos para el entrenamiento de LLMs son esenciales para garantizar que se protejan los derechos y la dignidad de las personas involucradas, al tiempo que se fomenta la confianza y la transparencia en el uso de la inteligencia artificial.
 
-### Origen de estos principios
+## Origen de estos principios
 
 La información proporcionada se basa en principios éticos ampliamente aceptados en el campo de la ética de la inteligencia artificial y la protección de datos. Estos principios están respaldados por una variedad de fuentes, incluidas directrices éticas emitidas por organizaciones internacionales, investigaciones académicas y estándares de la industria. Aquí hay algunas fuentes comunes que respaldan los aspectos éticos mencionados:
 
@@ -118,9 +118,9 @@ La información proporcionada se basa en principios éticos ampliamente aceptado
 
 5. **Documentos de Posición y Declaraciones de Principios**: Organizaciones gubernamentales, instituciones académicas, empresas y grupos de la sociedad civil a menudo emiten documentos de posición y declaraciones de principios que abordan consideraciones éticas en el desarrollo y uso de tecnologías de inteligencia artificial.
 
-### Casos de Violaciones de Privacidad y Ética
+## Casos de Violaciones de Privacidad y Ética
 
-#### Caso AOL (2006)
+### Caso AOL (2006)
 
 En 2006, AOL, un proveedor de servicios de Internet, publicó accidentalmente un conjunto de datos de búsqueda de casi 20 millones de usuarios durante un período de tres meses. Aunque AOL había anonimizado los datos, asignando identificadores únicos en lugar de nombres reales, investigadores de privacidad descubrieron que los datos aún podían ser utilizados para identificar a individuos específicos debido a la naturaleza sensible de las búsquedas realizadas.
 
@@ -128,7 +128,7 @@ Este caso resaltó la importancia de no solo eliminar nombres y direcciones de c
 
 Este incidente llevó a una mayor conciencia sobre la necesidad de estándares más estrictos para la anonimización de datos y subrayó los riesgos inherentes asociados con la publicación de datos incluso después de la anonimización aparente.
 
-#### Caso Cambridge Analytica (2018)
+### Caso Cambridge Analytica (2018)
 
 En 2018, se reveló que la consultora política Cambridge Analytica había recopilado ilegalmente datos personales de millones de usuarios de Facebook sin su consentimiento para utilizarlos en actividades de perfilado de usuarios y microsegmentación con fines políticos. Aunque los datos recopilados inicialmente podrían considerarse anónimos, el proceso de combinación de datos de diferentes fuentes permitió la reidentificación de individuos específicos. Este caso puso de relieve las preocupaciones éticas sobre el manejo de datos personales, incluida la necesidad de obtener consentimiento informado y garantizar la protección de la privacidad de los usuarios.
 
@@ -137,15 +137,15 @@ En 2018, se reveló que la consultora política Cambridge Analytica había recop
 - [BBC News - Cambridge Analytica: What we know so far](https://www.bbc.com/news/technology-43465968)
 - [The New York Times - How Trump Consultants Exploited the Facebook Data of Millions](https://www.nytimes.com/2018/03/17/us/politics/cambridge-analytica-trump-campaign.html)
 
-#### Caso Netflix Prize (2007)
+### Caso Netflix Prize (2007)
 
 En 2007, Netflix lanzó un concurso llamado "Netflix Prize", que desafió a los participantes a mejorar el algoritmo de recomendación de películas de Netflix utilizando un conjunto de datos de calificaciones de usuarios. Aunque Netflix anonimizó los datos eliminando nombres de usuario y direcciones de correo electrónico, investigadores demostraron que era posible identificar a individuos específicos cruzando los datos de Netflix con otras fuentes de información pública, como bases de datos de reseñas de películas. Este caso resaltó la importancia de considerar no solo los datos directamente identificativos, sino también los datos que podrían ser utilizados en combinación con otros para reidentificar a individuos.
 
-### Legislación en España sobre Protección de Datos y Ética
+## Legislación en España sobre Protección de Datos y Ética
 
 En España, la protección de datos personales y la ética en su tratamiento están reguladas principalmente por la Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales ([LOPDGDD](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673)). Esta ley, en vigor desde diciembre de 2018, establece las normas para el tratamiento de datos personales en el territorio español y refuerza los derechos digitales de los ciudadanos. La [LOPDGDD](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) implementa disposiciones del Reglamento General de Protección de Datos (GDPR) de la Unión Europea, asegurando la armonización con las regulaciones europeas en esta materia.
 
-#### Principios Éticos y Legales
+### Principios Éticos y Legales
 
 La [LOPDGDD](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) establece una serie de principios éticos y legales que deben regir el tratamiento de datos personales:
 
@@ -159,7 +159,7 @@ La [LOPDGDD](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) establece un
 
 5. **Transparencia y Acceso**: Los individuos tienen derecho a conocer qué datos se están recopilando sobre ellos, cómo se están utilizando y a quién se están transmitiendo, así como a acceder y corregir sus datos personales.
 
-#### Obligaciones de las Empresas y Organizaciones
+### Obligaciones de las Empresas y Organizaciones
 
 La [LOPDGDD](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) establece una serie de obligaciones para las empresas y organizaciones que recopilan y procesan datos personales, incluyendo:
 
@@ -167,10 +167,10 @@ La [LOPDGDD](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) establece un
 - Notificación de brechas de seguridad en el tratamiento de datos personales a la Agencia Española de Protección de Datos (AEPD) y a los individuos afectados.
 - Realización de Evaluaciones de Impacto de Protección de Datos (EIPD) para evaluar y mitigar los riesgos para la privacidad asociados con el tratamiento de datos personales.
 
-#### Sanciones por Incumplimiento
+### Sanciones por Incumplimiento
 
 La [LOPDGDD](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673) establece un régimen sancionador para el incumplimiento de sus disposiciones, con multas que pueden llegar hasta 20 millones de euros o el 4% del volumen de negocio total anual global del ejercicio financiero anterior, en el caso de infracciones graves.
 
-#### Impacto en la Ética del Tratamiento de Datos
+### Impacto en la Ética del Tratamiento de Datos
 
 Esta legislación no solo busca garantizar el cumplimiento legal en el tratamiento de datos personales, sino también promover prácticas éticas en este ámbito. Al fomentar la transparencia, el respeto a la autonomía de los individuos y la protección de su privacidad, contribuye a construir un entorno digital más ético y responsable.
