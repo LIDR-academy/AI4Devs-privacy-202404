@@ -28,4 +28,5 @@ Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nomb
 * [Computación Multi-partita Segura (CMS)](computacion-multi-partita-segura/README.md)
 * [LLMs de manera privada en tu propia infraestructura](llms-infraestructura-privada/README.md)
 * [LLMs locales](LLMs%20locales/README.md)
+* [Privacidad Diferencial](privacidad-diferencial/README.md)
 * [Otras técnicas](otras%20t%c3%a9cnicas/README.md)
