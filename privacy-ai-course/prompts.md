@@ -707,3 +707,15 @@ ChatGPT
 ## Asistente ChatGPT 3.5
 
 Conversación completa https://chat.openai.com/share/1d2f080c-4a86-4246-b05c-ea936a71b7e1
+
+
+# Isabel Ordás - Perturbación de datos
+
+## Asistente ChatGPT 3.5
+
+¿Podrías crear un curso en formato Markdown sobre la técnica de la pertufbación de datos en IA para proteger la privacidad de datos? Me interesaría tener esta información:
+* ¿en qué consiste?
+* técnicas existentes
+* herramientas
+* ejemplos
+Añade referencias para que pueda buscar más información
