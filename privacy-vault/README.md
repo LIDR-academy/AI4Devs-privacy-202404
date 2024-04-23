@@ -1,3 +1,5 @@
+Sala 2
+
 # Ejercicio grupal: Data Privacy Vault
 
 _Tiempo: 30 minutos_
