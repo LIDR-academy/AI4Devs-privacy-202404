@@ -12,7 +12,12 @@ app.post('/anonymize', (req, res) => {
     const data = req.body;
     // Perform anonymization logic here
     // For demonstration purposes, let's just echo back the received data
-    res.json({ message: 'Anonymized data received', data });
+    const { message } = req.body; // Extracting the 'message' attribute from the request body
+    const textToBeAnonymized = message; // Assigning the 'message' to the 'text' variable
+
+    console.log(`text to be anonymized: ${textToBeAnonymized}`)
+
+    res.json({ anonymizedMessage: textToBeAnonymized });
 });
 
 // Endpoint to deanonymize data
