@@ -41,3 +41,10 @@ Tareas extra a explorar si hay tiempo una vez habéis realizado el PR funcional:
 - Interfaz gráfica que permita tanto copiar el mensaje anonimizado directamente al portapapeles para pegarlo directamente en el LLM, como copiar el contenido del LLM con tokens para de-anonimizar directamente y obtener el contenido final
 
 
+# Como ejecutar la api en entorno local
+
+- primero instalar [npm](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- entrar en la carpeta `app`
+- ejecutar `npm install`
+- ejecutar `npm start`
+- tirar los comandos cURL presentados anteriormente
