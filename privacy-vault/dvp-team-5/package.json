@@ -1,0 +1,16 @@
+{
+  "name": "dvp-team-5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Gerardo Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "natural": "^7.0.5"
+  }
+}
