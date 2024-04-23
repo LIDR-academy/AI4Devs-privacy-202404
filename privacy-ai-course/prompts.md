@@ -700,3 +700,10 @@ podrias darme una lista de libros y articulos y de cursos y/o tutoriales en vide
 Conversación completa: <https://chat.openai.com/share/90869a79-7d54-4920-8c0c-a192763f778a>
 
 ## LLM utilizado
+ChatGPT
+
+# Enrique Rochina - Derechos de autor en imágenes generadas por LLM
+
+## Asistente ChatGPT 3.5
+
+Conversación completa https://chat.openai.com/share/1d2f080c-4a86-4246-b05c-ea936a71b7e1
