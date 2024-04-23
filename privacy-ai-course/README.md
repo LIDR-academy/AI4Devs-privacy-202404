@@ -32,3 +32,4 @@ Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nomb
 * [LLMs de manera privada en tu propia infraestructura](llms-infraestructura-privada/README.md)
 * [LLMs locales](LLMs%20locales/README.md)
 * [Otras técnicas](otras%20t%c3%a9cnicas/README.md)
+* [Perturbación de datos](perturbacion-datos/README.md)
