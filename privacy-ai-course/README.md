@@ -21,15 +21,16 @@ Por último, no olvides añadir tus prompts en prompts.md, iniciando con tu nomb
 ## Indice
 
 * [De-identificación](de-identificacion/README.md)
+* [Perturbación de datos](perturbacion-datos/README.md)
 * [Bovedas de privacidad de datos (Data Privacy Vaults)](bovedas_privacidad_datos/README.md)
 * [Enclaves Seguros](enclaves-seguros/README.md)
 * [Contenido sintético](contenido-sintetico/README.md)
 * [Aprendizaje federado](aprendizaje-federado/README.md)
 * [Computación Multi-partita Segura (CMS)](computacion-multi-partita-segura/README.md)
 * [Cifrado homomorfico](cifrado-homomorfico/README.md)
+* [Protocolo de seguridad de software](protocolo-seguridad-software/README.md)
 * [Derechos de autor en imágenes generadas por LLM](derechos_autor_imagenes_generadas_llm/README.md)
 * [Privacidad Diferencial](privacidad-diferencial/README.md)
 * [LLMs de manera privada en tu propia infraestructura](llms-infraestructura-privada/README.md)
 * [LLMs locales](LLMs%20locales/README.md)
 * [Otras técnicas](otras%20t%c3%a9cnicas/README.md)
-* [Perturbación de datos](perturbacion-datos/README.md)
